@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "learnyouhtml": "^1.0.2"
+  },
+  "name": "abas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "learnyouhtml" : "learnyouhtml",
+    "verify" : "learnyouhtml verify index.html",
+    "exe" : "learnyouhtml run index.html",
+    "instruction" : "learnyouhtml print",
+    "help" :"learnyouhtml help"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
